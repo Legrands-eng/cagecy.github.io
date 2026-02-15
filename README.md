@@ -1,2 +1,2 @@
 # cagecy.github.io
-ite officiel de CAGECY – Caïmans des Grandes Écoles de Yamoussoukro 
+ite officiel de la CAGECY – Caïmans des Grandes Écoles de Yamoussoukro 

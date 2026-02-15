@@ -1,6 +1,6 @@
 # cagecy.github.io
 
-Site officiel de la **CAGECY** – *Caïmans des Grandes Écoles de Yamoussoukro*.
+Site officiel de la CAGECY – Caïmans des Grandes Écoles de Yamoussoukro
 
 ## Lancer le site en local
 
